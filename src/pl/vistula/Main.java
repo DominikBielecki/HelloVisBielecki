@@ -6,9 +6,5 @@ public class Main {
 
         System.out.println("Hello Vis Bielecki");
 
-        System.out.println("Hello Vis Bielecki2");
-
-        System.out.println("Hello Vis Bielecki3");
-
     }
 }
